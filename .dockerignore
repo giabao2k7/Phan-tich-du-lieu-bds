@@ -1,0 +1,16 @@
+memory-bank/
+AGENTS.md
+HUONG_DAN.md
+KHOI_TAO.md
+KIEM_TRA_LAN_DAU.md
+data/
+logs/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.DS_Store
+Thumbs.db
+.git/
